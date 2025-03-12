@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/94bf6751-fcfb-432b-b414-9b37793fc370)
 # 4 en Linea
 
 Este es un juego de "4 en línea" implementado en HTML, CSS y JavaScript.
